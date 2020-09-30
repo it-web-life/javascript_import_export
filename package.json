@@ -1,0 +1,16 @@
+{
+  "name": "javascript_import_export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/it-web-life/javascript_import_export.git",
+  "author": "TS",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server --hot --inline"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
